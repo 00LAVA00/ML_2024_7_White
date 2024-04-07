@@ -1,0 +1,11 @@
+Sleep,Training,Cardiac Rhythm,Jump,Cognitive
+Hours.in.Bed,Training.load.score,RHR (Resting Heart Rate),Jump.Height,Recovery
+Hours.of.Sleep,Cardio.load,HR.min..bpm.,Peak.Power,Sleep.Score
+Sleep.Need,Duration,HR.avg..bpm.,Peak.Power.BM,Total.distance..m.
+Sleep.Efficiency….,HR.min..bpm.,HR.max..bpm.,RSI (Relative Strength Index),Distance...min..m.min.
+Sleep.Disturbances,HR.avg..bpm.,,,Maximum.speed..km.h.
+Latency..min.,HR.max..bpm.,,,Average.speed..km.h.
+Total.Cycle.Sleep.Time..hours.,RT.Volume.Load,,,Game.Score
+Restorative.Sleep..hours.,,,,
+Sleep.Consistency,,,,
+Respiratory.Rate,,,,
