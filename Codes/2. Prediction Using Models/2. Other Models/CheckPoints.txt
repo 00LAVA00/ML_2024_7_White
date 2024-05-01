@@ -1,0 +1,14 @@
+Checklists:
+
+- added date field so as to split data and get better visualizations
+- date values were in inconsistent format so we unified one format
+
+
+
+
+Notes:
+
+- The MSE value being close to zero suggests that the model is making accurate predictions for the 'Jump' modality.
+- A low MSE indicates that the model is performing well, as it means the predicted values are very close to the actual values.
+- The closer the MSE is to zero, the better the model's performance.
+
